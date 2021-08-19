@@ -1,0 +1,11 @@
+{
+  "name": "numberwang-bot",
+  "version": "1.0.0",
+  "description": "NumberwangBot to help you keep track of all of your numberwangs",
+  "main": "bot.js",
+  "author": "Lingy",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.3.3"
+  }
+}
